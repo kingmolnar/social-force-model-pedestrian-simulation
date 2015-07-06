@@ -1,3 +1,7 @@
 a.out
 *~
 *.zip
+*.aux
+*.toc
+*.log
+*.tof
